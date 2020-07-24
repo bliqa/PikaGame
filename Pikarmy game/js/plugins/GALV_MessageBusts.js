@@ -351,7 +351,12 @@ Sprite_GalvBust.prototype.loadBitmap = function() {
 	if ($gameSystem.bustDisable) {
 		var img = ImageManager.loadPicture('');
 	} else {
-		var img = ImageManager.loadPicture(name + Galv.MB.f);
+		// bliqa modified this section
+		var fs = require('fs');
+		if(fs.existsSync(""+StorageManager.localFileDirectoryPath()+"../img/pictures/"+name+".png"))
+			var img = ImageManager.loadPicture(name + Galv.MB.f);
+		else 
+			var img = ImageManager.loadPicture("placeholder" + Galv.MB.f);
 	};
 	if (img.isReady()) {
 		if (this.bitmap) {
