@@ -6,5 +6,6 @@ null,
 {"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Bow","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
 {"id":5,"animationId":5,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":43,"dataId":14,"value":1},{"code":43,"dataId":11,"value":1}],"iconIndex":134,"name":"Pika's antenna","note":"","params":[0,10,5,0,10,10,0,0],"price":0,"wtypeId":13},
 {"id":6,"animationId":13,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":134,"name":"Tomoshika's fire","note":"","params":[0,10,0,0,20,0,10,10],"price":0,"wtypeId":14},
-{"id":7,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":110,"name":"Tomoe","note":"","params":[0,30,0,0,30,0,0,0],"price":0,"wtypeId":16}
+{"id":7,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":110,"name":"Tomoe","note":"","params":[0,30,0,0,30,0,0,0],"price":0,"wtypeId":16},
+{"id":8,"animationId":16,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":134,"name":"Monoe's Magnets","note":"","params":[10,15,10,10,20,10,0,0],"price":0,"wtypeId":15}
 ]

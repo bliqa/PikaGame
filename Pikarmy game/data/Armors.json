@@ -10,5 +10,7 @@ null,
 {"id":8,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Tomoshika's shirt","note":"","params":[0,70,0,10,0,30,0,0],"price":0},
 {"id":9,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":134,"name":"Tomoshika's fire","note":"","params":[60,10,0,0,10,0,0,0],"price":0},
 {"id":10,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":110,"name":"Wooden Handle","note":"","params":[50,50,0,10,0,0,0,0],"price":0},
-{"id":11,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":134,"name":"Tomoe's crown","note":"","params":[60,0,0,0,0,30,0,0],"price":0}
+{"id":11,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":134,"name":"Tomoe's crown","note":"","params":[60,0,0,0,0,30,0,0],"price":0},
+{"id":12,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":138,"name":"Monoe's Jacket","note":"","params":[20,40,0,10,30,30,0,0],"price":0},
+{"id":13,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":134,"name":"Monoe's Magnets","note":"","params":[20,30,0,5,20,10,0,0],"price":0}
 ]
